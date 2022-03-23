@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T01:25:07.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="_VWFPfG3AjJjolpng3ny" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-23T01:31:01.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="6SOLa_AKAdYIxguoJGJd" version="17.1.2" type="github">
   <diagram id="GNN4CYFJk6d6bBhjBL5f" name="Page-1">
     <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -115,6 +115,9 @@
             <mxPoint x="1325" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wgyJGO9GoF8b9pTpWTGy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kFctgK_35YU_g48_bW6F-76" target="wgyJGO9GoF8b9pTpWTGy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kFctgK_35YU_g48_bW6F-76" value="1.条码表(t_mes_sku_barcode)是否存在或者执行派工单(t_mes_execution)是否存在&lt;br&gt;2.校验数量" style="whiteSpace=wrap;html=1;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1200" y="320" width="250" height="72" as="geometry" />
         </mxCell>
@@ -125,6 +128,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1325" y="589.9999999999998" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wgyJGO9GoF8b9pTpWTGy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wgyJGO9GoF8b9pTpWTGy-2" target="wgyJGO9GoF8b9pTpWTGy-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wgyJGO9GoF8b9pTpWTGy-2" value="1.上一工序是否报工&lt;br&gt;2.是否是系统条码&lt;br&gt;3.校验来料是否是计划工单bom的子物料或者在物料对照表存在" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1200" y="460" width="250" height="60" as="geometry" />
@@ -139,10 +145,19 @@
           <mxGeometry x="1230" y="590" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wgyJGO9GoF8b9pTpWTGy-6" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="1600" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wgyJGO9GoF8b9pTpWTGy-8" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="1248" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wgyJGO9GoF8b9pTpWTGy-9" value="验布报工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="228" width="260" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="wgyJGO9GoF8b9pTpWTGy-13" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="340" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wgyJGO9GoF8b9pTpWTGy-15" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="470" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
