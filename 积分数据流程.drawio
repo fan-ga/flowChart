@@ -169,6 +169,15 @@
         <mxCell id="fIdoNSbPEtGJxs5PxDBb-36" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;" value="记录人和审核人是否一致" vertex="1">
           <mxGeometry height="70" width="150" x="-85" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="fIdoNSbPEtGJxs5PxDBb-46" parent="WIyWlLk6GJQsqaUBKTNV-1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;div&gt;1.人员积分奖扣&lt;/div&gt;2.管理者奖扣&lt;div&gt;3.规则配置逻辑&lt;/div&gt;&lt;div&gt;4.消息通知&lt;/div&gt;" vertex="1">
+          <mxGeometry height="156" width="230" x="-410" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="fIdoNSbPEtGJxs5PxDBb-47" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fIdoNSbPEtGJxs5PxDBb-46" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.917;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" target="fIdoNSbPEtGJxs5PxDBb-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-180" y="630" as="sourcePoint" />
+            <mxPoint x="-130" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
