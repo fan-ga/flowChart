@@ -156,7 +156,7 @@
         <mxCell id="88fcGD7XR5dYQ1H_3-Cc-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="WIN+" vertex="1">
           <mxGeometry height="60" width="120" x="645" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="88fcGD7XR5dYQ1H_3-Cc-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="本地机器码加密" vertex="1">
+        <mxCell id="88fcGD7XR5dYQ1H_3-Cc-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="本地加密服务" vertex="1">
           <mxGeometry height="60" width="120" x="827" y="230" as="geometry" />
         </mxCell>
         <mxCell id="88fcGD7XR5dYQ1H_3-Cc-52" edge="1" parent="1" source="88fcGD7XR5dYQ1H_3-Cc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="88fcGD7XR5dYQ1H_3-Cc-40">
@@ -167,7 +167,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="88fcGD7XR5dYQ1H_3-Cc-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="加密服务" vertex="1">
+        <mxCell id="88fcGD7XR5dYQ1H_3-Cc-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;license&lt;/span&gt;服务" vertex="1">
           <mxGeometry height="60" width="120" x="827" y="420" as="geometry" />
         </mxCell>
       </root>
